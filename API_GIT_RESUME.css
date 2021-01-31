@@ -1,0 +1,34 @@
+p {
+
+  text-align: center;
+  color: black;
+    font-size: 1rem;
+  color: #DBEDF7;
+  font-family: "Arvo", cursive;
+  
+  
+}
+
+body {
+  text-align: center;
+  background-color: grey;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 5rem;
+  color: white;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 black;
+
+}
+
+form{
+
+  text-align: center;
+   font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  
+}
